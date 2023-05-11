@@ -27,6 +27,10 @@ def treugolnik(x1, y1, x2, y2, x3, y3):
         f2.write(str(pryamougolnik))
 
 
+
+
+
+
 # treugolnik(0, 0, 0, 0, 1, 3)
 #
 # def offer(words):
